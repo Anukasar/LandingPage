@@ -23,7 +23,7 @@ export default function BestSelling() {
         {/* Horizontal product slider */}
         <div
           ref={sliderRef}
-          className="flex overflow-x-auto gap-4 scroll-smooth no-scrollbar"
+          className="flex overflow-x-auto gap-4 scroll-smooth no-scrollbar justify-center"
         >
           {products.map((product) => (
             <div
