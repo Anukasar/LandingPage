@@ -16,3 +16,7 @@ Features:
 ```bash
 npm install
 npm run dev
+## 🚀 Live Demo
+
+[Click here to view the live landing page](https://landing-page-3rxjkvtmt-anukasars-projects.vercel.app)
+
